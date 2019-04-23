@@ -1,0 +1,47 @@
+{
+  "Statistics":"Dietrich",
+  "Statistics and Data Science":"Dietrich",
+  "Statistics and Decision Science":"Dietrich",
+  "English":"Dietrich",
+  "Social & Decision Sciences":"Dietrich",
+  "Dietrich College Interdisciplinary":"Dietrich",
+  "Philosophy":"Dietrich",
+  "General Dietrich College":"Dietrich",
+
+  "SCS: Computer Science":"SCS",
+  "Human Computer-Interaction":"SCS",
+  "General Computer Science":"SCS",
+  "SCS: Robotics":"SCS",
+  "SCS: Human-Computer Interaction":"SCS",
+  "SCS: Language Technologies Institute":"SCS",
+  "SCS Interdisciplinary": "SCS",
+
+  "Information Systems:Sch of IS & Mgt":"Heinz",
+
+  "Business Administration":"Tepper",
+
+  "Physics":"MCS",
+  "Chemistry":"MCS",
+  "Mathematical Sciences":"MCS",
+  "General MCS":"MCS",
+  "Biology":"MCS",
+  "Biological Sciences":"MCS",
+  "Science and Humanities Scholars":"MCS",
+  "Science and Arts":"MCS",
+
+  "Mechanical Engineering":"CIT",
+  "General CIT":"CIT",
+  "Chemical Engineering":"CIT",
+  "Biomedical Engineering":"CIT",
+  "Materials Science & Engineering":"CIT",
+  "MSE: Materials Science & Engineering":"CIT",
+  "Electrical & Computer Engineering":"CIT",
+  "Civil & Environmental Engineering":"CIT",
+
+  "Architecture":"CFA",
+  "Art":"CFA",
+  "Music":"CFA",
+  "Drama":"CFA",
+  "Design":"CFA",
+  "CFA Undeclared":"CFA"
+}
